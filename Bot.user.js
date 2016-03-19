@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        AgarBot
+// @name        Damn Good Teams Bot
 // @namespace   AgarBot
 // @include     http://agar.io/*
 // @version     3.55
